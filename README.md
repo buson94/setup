@@ -1,6 +1,6 @@
 # Setup
 
-Commands and files for setting up a new system for me.
+Commands and files for when setting up a new system for me. For now using simple script commands, might use more professional tools later.
 
 ## Requirements
 

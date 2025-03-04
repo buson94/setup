@@ -1,0 +1,26 @@
+set afterends
+set atblanks
+set autoindent
+set constantshow
+set guidestripe 120
+set historylog
+set linenumbers
+set minibar
+set mouse
+set noconvert
+set smarthome
+set stateflags
+set tabsize 4
+set tabstospaces
+set zap
+
+set keycolor black,gray
+set minicolor black,gray
+set numbercolor cyan
+set promptcolor black,cyan
+set scrollercolor cyan,black
+set selectedcolor black,cyan
+set stripecolor black,gray
+
+## by https://github.com/scopatz/nanorc
+include ~/nanorc/*.nanorc

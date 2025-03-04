@@ -14,6 +14,8 @@ The goal is trying to minimize the requirements as much as possible, so the setu
 
 ## Credits
 
+* [Improved Nano Syntax Highlighting Files](https://github.com/scopatz/nanorc) - Using an edited version of this repo
+
 ## Contribution
 
 Open to contribute and help anytime! You will be credited!

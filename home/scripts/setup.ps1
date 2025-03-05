@@ -1,6 +1,8 @@
 $step = 1
 $steps = 5
 
+$setupType = Read-Host "What setup to run? (all/basic)"
+
 echo "($($step++)/$($steps)) Install important terminal tools"
 winget install -e --id Git.Git Microsoft.PowerShell JanDeDobbeleer.OhMyPosh
 
@@ -15,3 +17,10 @@ winget install -e --id JesseDuffield.lazygit Microsoft.VisualStudioCode JetBrain
 
 echo "($($step++)/$($steps)) Install programming languages"
 winget install -e --id Oracle.JavaRuntimeEnvironment OpenJS.NodeJS.LTS
+
+if ($setupType -contains 'all') {
+    ./music.ps1
+    ./video.ps1
+    ./gaming.ps1
+    ./diagnosis_tools.ps1
+}

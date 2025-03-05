@@ -1,6 +1,6 @@
 # Setup
 
-Commands and files for when setting up a new system for me. For now using simple script commands, might use more professional tools later.
+Documenting commands and files for when setting up a new system for me. For now using simple script commands to run, might use more professional tools later.
 
 ## Requirements
 
@@ -10,6 +10,8 @@ The goal is trying to minimize the requirements as much as possible, so the setu
 
 ### Windows
 
+* [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Windows Package Manager, should already be preinstalled on Windows 11 or since Windows 10 Version 1709
+
 ### Ubuntu
 
 ## Credits
@@ -18,7 +20,7 @@ The goal is trying to minimize the requirements as much as possible, so the setu
 
 ## Contribution
 
-Open to contribute and help anytime! You will be credited!
+Open to contribute and help anytime! You will be credited! Also open to recommandations if you see a better alternative of a tool in here!
 
 ## License
 
